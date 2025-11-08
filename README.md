@@ -186,7 +186,7 @@ This project is available for educational and research purposes.
 
 ## 👥 Author
 
-**Nofisat Upelumi**
+**Nofiu Moruf pelumi**
 
 ## 🙏 Acknowledgments
 
